@@ -12,3 +12,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Depends: 
     TargetDecoy
+URL: https://github.com/statOmics/TargetDecoyQC
+BugReports: https://github.com/statOmics/TargetDecoyQC/issues
